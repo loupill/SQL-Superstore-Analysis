@@ -3,7 +3,7 @@
 Welcome to the Store Sales and Returns Analysis project repository! This project aims to showcase SQL expertise through the analysis of sales and returns data from a store. By exploring various SQL queries, we gain insights into sales trends, profitability, customer behavior, and product performance.
 
 SQL Queries Overview:
-Below is a summary of the SQL queries included in this project:
+Below is a summary of the SQL queries included in this project
 
 Top 3 Orders: Displays the top 3 orders from the dataset.
 Distinct Countries: Lists the countries represented in the data.
